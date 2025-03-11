@@ -1,0 +1,18 @@
+# Requisitos do Software
+
+## 1. Introdução
+Este documento descreve os requisitos do sistema para o projeto de software em questão.
+
+## 2. Requisitos Funcionais
+- O sistema deve permitir o login de usuários com autenticação segura.
+- Deve ser possível cadastrar, editar e excluir usuários.
+- O software deve armazenar e gerenciar documentos do projeto.
+- Deve permitir controle de versão dos artefatos armazenados.
+
+## 3. Requisitos Não Funcionais
+- O sistema deve ter alta disponibilidade (mínimo 99,5% uptime).
+- Deve suportar até 100 usuários simultâneos sem degradação de performance.
+- Utilizar padrões de segurança para proteção dos dados.
+
+## 4. Considerações Finais
+Este documento servirá como base para o desenvolvimento e gerenciamento do software.
